@@ -26,10 +26,25 @@ O manual está dividido em capítulos temáticos:
 
 ---
 
+Explora os ficheiros .md ou utiliza um visualizador de Markdown como o VS Code, Typora ou qualquer browser com suporte.
+
+
+
 ## 🚀 Como Usar
 
 1. Clona o repositório:
    ```bash
    git clone https://github.com/wagner94/manual-sobrevivencia-linux.git
    cd manual-sobrevivencia-linux
+2. yuyyuy
+3. yhyuu
+
+🤝 Contribuir
+Se desejares contribuir com melhorias, correcções ou novos capítulos, consulta o CONTRIBUTING.md.
+
+📄 Licença
+Este projecto está licenciado sob a MIT License.
+
+🧑‍💻 Autor
+Efraim Vander 
 
