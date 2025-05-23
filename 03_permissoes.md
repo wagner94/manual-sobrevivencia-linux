@@ -23,13 +23,10 @@ Exemplo:
 Significa:
 
 O proprietário pode ler, escrever e executar
-
 O grupo pode ler e executar
-
 Outros podem apenas ler
 
-Comandos principais
-Comando	Descrição
+Comandos principais            Comando	Descrição
 ls -l	Mostra as permissões e propriedades de ficheiros/pastas.
 chmod	Altera permissões de ficheiros/pastas.
 chown	Altera o proprietário e grupo de ficheiros/pastas.
@@ -37,14 +34,13 @@ chgrp	Altera apenas o grupo associado a um ficheiro/pasta.
 
 Uso do chmod
 Notação simbólica:
-bash
-Copiar
-Editar
+
 chmod u+x script.sh    # dá permissão de execução ao proprietário
 chmod g-w ficheiro.txt # retira permissão de escrita ao grupo
 chmod o=r ficheiro.txt # outros podem apenas ler
+
 Notação numérica:
-Valor	Permissão
+Valor	       Permissão
 7	leitura + escrita + execução
 6	leitura + escrita
 5	leitura + execução
@@ -55,10 +51,6 @@ Valor	Permissão
 0	nenhuma
 
 Exemplo:
-
-bash
-Copiar
-Editar
 chmod 755 script.sh
 Significa: dono com todas as permissões, grupo e outros com leitura e execução.
 
