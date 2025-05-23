@@ -36,8 +36,7 @@ Explora os ficheiros .md ou utiliza um visualizador de Markdown como o VS Code, 
    ```bash
    git clone https://github.com/wagner94/manual-sobrevivencia-linux.git
    cd manual-sobrevivencia-linux
-2. yuyyuy
-3. yhyuu
+2. Explora os ficheiros .md ou utiliza um visualizador de Markdown como o VS Code, Typora ou qualquer browser com suporte.
 
 🤝 Contribuir
 Se desejares contribuir com melhorias, correcções ou novos capítulos, consulta o CONTRIBUTING.md.
