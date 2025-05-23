@@ -44,7 +44,7 @@ Se desejares contribuir com melhorias, correcções ou novos capítulos, consult
 
 📄 Licença
 
-Este projecto está licenciado sob a MIT License.
+Este projecto está licenciado sob a [MIT LICENSE](./LICENSE.md).
 
 🧑‍💻 Autor
 
