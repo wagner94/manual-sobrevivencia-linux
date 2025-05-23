@@ -1,1 +1,2 @@
-# manual-sobrevivencia-linux
+# Manual de Sobrevivência Linux
+
