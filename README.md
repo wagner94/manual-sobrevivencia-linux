@@ -2,7 +2,7 @@
 
 Este repositório contém um conjunto prático e objectivo de notas, comandos, scripts e boas práticas para administradores de sistemas Linux. O objectivo é fornecer uma referência rápida e funcional para quem gere servidores em ambientes reais.
 
-> 📘 Ideal para iniciantes, administradores júniores, e profissionais que lidam com ambientes Linux no dia-a-dia.
+> 📘 Ideal para iniciantes, administradores juniores, e profissionais que lidam com ambientes Linux no dia-a-dia.
 
 ---
 
