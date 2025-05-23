@@ -21,7 +21,7 @@ Ao longo dos capítulos, vais explorar temas como:
 - Configuração de rede.
 - Scripts básicos e automação.
 - Diagnóstico e resolução de problemas (troubleshooting).
-- Segurança e monitorização.
+- Segurança e monitoramento.
 - Tópicos avançados e boas práticas.
 
 Cada secção foi pensada para ser directa, objectiva e aplicada. Incluímos exemplos práticos sempre que possível, para que possas aplicar imediatamente o que aprendeste.
