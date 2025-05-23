@@ -47,5 +47,6 @@ Se desejares contribuir com melhorias, correcções ou novos capítulos, consult
 Este projecto está licenciado sob a MIT License.
 
 🧑‍💻 Autor
+
 Efraim Vander 
 
