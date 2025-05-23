@@ -36,7 +36,7 @@ Explora os ficheiros .md ou utiliza um visualizador de Markdown como o VS Code, 
    ```bash
    git clone https://github.com/wagner94/manual-sobrevivencia-linux.git
    cd manual-sobrevivencia-linux
-2. Explora os ficheiros .md ou utiliza um visualizador de Markdown como o VS Code, Typora ou qualquer browser com suporte.
+2. Pesquisa os ficheiros .md ou utiliza um visualizador de Markdown como o VS Code, Typora ou qualquer browser com suporte.
 
 🤝 Contribuir
 
@@ -49,4 +49,5 @@ Este projecto está licenciado sob a MIT License.
 🧑‍💻 Autor
 
 Efraim Vander 
+---
 
