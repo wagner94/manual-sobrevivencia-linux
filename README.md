@@ -40,7 +40,7 @@ Explora os ficheiros .md ou utiliza um visualizador de Markdown como o VS Code, 
 
 🤝 Contribuir
 
-Se desejares contribuir com melhorias, correcções ou novos capítulos, consulta o CONTRIBUTING.md.
+Se desejares contribuir com melhorias, correcções ou novos capítulos, consulta o [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 📄 Licença
 
