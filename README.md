@@ -39,9 +39,11 @@ Explora os ficheiros .md ou utiliza um visualizador de Markdown como o VS Code, 
 2. Explora os ficheiros .md ou utiliza um visualizador de Markdown como o VS Code, Typora ou qualquer browser com suporte.
 
 🤝 Contribuir
+
 Se desejares contribuir com melhorias, correcções ou novos capítulos, consulta o CONTRIBUTING.md.
 
 📄 Licença
+
 Este projecto está licenciado sob a MIT License.
 
 🧑‍💻 Autor
