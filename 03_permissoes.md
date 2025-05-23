@@ -52,8 +52,4 @@ Valor	       Permissão
 
 Exemplo:
 chmod 755 script.sh
-Significa: dono com todas as permissões, grupo e outros com leitura e execução.
-
-Gerir permissões é uma responsabilidade essencial para evitar riscos de segurança e garantir o bom funcionamento do sistema.
-
----
+Significa: o proprietário com todas as permissões, o grupo e outros com leitura e execução.
