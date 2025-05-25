@@ -38,7 +38,7 @@ A instalação e actualização de software no Linux é geralmente feita atravé
 
 
 
-Cheat Sheet – APT vs DNF vs Zypper
+## Cheat Sheet – APT vs DNF vs Zypper
 
 Ação / Tarefa                        | apt (Debian/Ubuntu)           | dnf (Fedora)                   | zypper (openSUSE)
 ------------------------------------|-------------------------------|--------------------------------|-------------------------------
