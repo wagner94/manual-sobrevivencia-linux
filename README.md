@@ -49,4 +49,5 @@ Este projecto está licenciado sob a [MIT LICENSE](./LICENSE).
 🧑‍💻 Autor
 
 Efraim Vander 
+efraimvander@live.com
 
