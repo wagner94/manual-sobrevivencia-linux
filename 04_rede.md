@@ -21,7 +21,7 @@ Exibe os endereços IP configurados nas interfaces de rede.
 ip route show
 ```
 
-Mostra as rotas de rede ativas.
+Mostra as rotas de rede activas.
 
 ```bash
 ip link set eth0 up`
