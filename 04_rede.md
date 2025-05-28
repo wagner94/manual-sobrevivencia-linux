@@ -57,8 +57,8 @@ Mostra as portas TCP/UDP abertas e os serviços a escutar. Substitui `netstat`.
 ### `dig` e `host` – Consulta de DNS
 
 ```bash
-dig openai.com
-host openai.com
+dig google.com
+host google.com
 ```
 
 Permitem diagnosticar problemas de resolução de nomes.
@@ -140,7 +140,7 @@ sudo iptables -A INPUT -p tcp --dport 22 -j ACCEPT
 * Verificar se o gateway está acessível:
 
   ```bash
-  ping 192.168.1.1  (ip usado para ilustrativo)
+  ping 192.168.1.1  (ip ilustrativo)
   ```
 
 * Verificar DNS:
